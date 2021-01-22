@@ -2,9 +2,9 @@ var emails = [
     'aicaoladizhi@gmail.com'
 ];
 var newestUrls = [
-    'https://jiuse006.com',
-    'https://jiuse007.com',
-    'https://jiuse008.com'
+    'https://hrbhssw.com',
+    'https://8doucai.com',
+    'https://jieshun1.com'
 ];
 var otherUrls = [
     'https://aicaola.com',
